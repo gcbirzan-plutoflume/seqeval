@@ -29,8 +29,6 @@ setup(
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
     description=DESCRIPTION,
-    long_description=long_description,
-    long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=EMAIL,
     url=URL,
