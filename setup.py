@@ -26,7 +26,7 @@ required = ['numpy>=1.14.0', 'scikit-learn>=0.21.3']
 
 setup(
     name=NAME,
-    use_scm_version=True,
+    version="3.0",
     setup_requires=['setuptools_scm'],
     description=DESCRIPTION,
     author=AUTHOR,
